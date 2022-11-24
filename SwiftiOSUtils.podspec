@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
   s.homepage         = 'https://docs.wogaa.sg/'
   s.author           = { 'shahnawaz_cts' => 'shahnawaz.alam@cognizant.com' }
-  s.source           = { :git => 'https://github.com/shahnawaz2057/Tracker.git', :tag => s.version.to_s}
+  s.source           = { :git => 'https://github.com/shahnawaz2057/swift-ios-utils.git', :tag => s.version.to_s}
 
   s.ios.deployment_target = '9.0'
 
