@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "fmdb",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ccgus/fmdb",
+      "state" : {
+        "revision" : "61e51fde7f7aab6554f30ab061cc588b28a97d04",
+        "version" : "2.7.7"
+      }
+    },
+    {
+      "identity" : "snowplow-objc-tracker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/snowplow/snowplow-objc-tracker.git",
+      "state" : {
+        "revision" : "ec912a566073615ebcc9dc3a4c6b96a1cc6ed7e7",
+        "version" : "4.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
