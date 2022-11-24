@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SwiftiOSUtils'
-  s.version          = '4.0.1'
+  s.version          = '1.0.0'
   s.summary          = 'SwiftUtils utilities method'
   s.license = { :type => 'MIT', :text => <<-LICENSE
                    Copyright 2022
