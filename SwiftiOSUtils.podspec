@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'SwiftUtils provides utilities method to check for valid email, phone number etc'
 
-  s.homepage         = 'https://docs.wogaa.sg/'
+  s.homepage         = 'https://github.com/shahnawaz2057/swift-ios-utils.git'
   s.author           = { 'shahnawaz_cts' => 'shahnawaz.alam@cognizant.com' }
   s.source           = { :git => 'https://github.com/shahnawaz2057/swift-ios-utils.git', :tag => s.version.to_s}
 
